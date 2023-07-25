@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  margin: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+.img-ppal {
+  width: 100px;
+}
+
+.card {
+  width: 400px;
+  margin: 0px auto;
+  justify-content: space-around;
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  color: black;
+  background: #a2d2ff;
+  border-bottom: 5px solid #ffd166;
+  border-top: 5px solid pink;
+}
+
+.utility {
+  border: 1px dotted blue;
+}
